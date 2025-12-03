@@ -46,6 +46,7 @@ AI &amp; Robotics student focusing on Deep Learning and Computer Vision. Strong 
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariborz-ai-71&layout=compact&theme=radical" />
 </p>
 
+
 ---
 
 ## 🔥 Fun AI Badge
