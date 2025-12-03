@@ -42,9 +42,9 @@ AI &amp; Robotics student focusing on Deep Learning and Computer Vision. Strong 
 
 ## 📊 GitHub Stats
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=fariborz-ai-71&show_icons=true&theme=radical" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fariborz-ai-71&layout=compact&theme=radical" />
+  <img height="170" src="https://streak-stats.demolab.com/?user=fariborz-ai-71&theme=radical&hide_border=true" />
 </p>
+
 
 
 ---
