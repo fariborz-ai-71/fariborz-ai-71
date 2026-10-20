@@ -35,7 +35,7 @@ AI &amp; Robotics student focusing on Deep Learning and Computer Vision. Strong 
 
 ## 🛠️ Tech Stack
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,ts,github,vscode,Yolo,LLm" />
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,fastapi,ts,github,vscode,YOLO,LLm" />
 </p>
 
 ---
