@@ -9,10 +9,10 @@ AI &amp; Robotics student focusing on Deep Learning and Computer Vision. Strong 
 ---
 
 ## 🐺 About Me 
-- 🛰️ I’m currently working on **attras co** & **arman moj co**
+- 🛰️ I’m currently working on **Vircolab**
 - 🤝 I’m looking to collaborate on **creative AI & tech projects**
 - 🧠 I’m looking for help with **improving my coding workflow** 🤪
-- 🌱 I’m currently learning **NLP, LLM-based agents & Vision-Language Models**
+- 🌱 I’m currently working **NLP, LLM-based agents & Vision-Language Models**
 - 💬 Ask me about **AI, automation, and building smart agents**
 - ⚡ Fun fact: **I never stop learning new stuff!**
 
@@ -49,7 +49,7 @@ AI &amp; Robotics student focusing on Deep Learning and Computer Vision. Strong 
 
 ---
 
-## 🔥 Fun AI Badge
+
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=3000&color=0FF798&center=true&vCenter=true&lines=AI+Developer;LLM+Enthusiast;NLP+Learner;Always+learning+new+things!" />
 </p>
